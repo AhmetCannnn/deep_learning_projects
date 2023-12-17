@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  6 18:50:13 2020
+Created on Sun Dec 17 17:31:40 2023
 
-@author: sadievrenseker
+@author: AHMET CAN
 """
 
 #1.kutuphaneler
